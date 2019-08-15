@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Adam Kovacs</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hobe Fort or Huwei Fort is a historical fort located near Fort Santo Domingo, in Tamsui District, New Taipei, Taiwan.
+        \n\nIn the 1880s Imperial China (Qing dynasty) and France fought a war over an area that is today Vietnam. In October 1884 as part of the Keelung Campaign, the French fleet sailed to northern Taiwan where it blockaded the ports of Keelung and Tamsui, and then landed troops at both places. The Chinese managed to turn back the assault at Tamsui, though Keelung fell to the French.
+        \n\nDuring the Japanese colonial period, the Imperial Japanese Army (IJA) withdrew four cannons from Hobe Fort and turned the place into an exercise field for artillery practice.
+        \nAfter Taiwan came under Chinese Nationalist (KMT) administration, Nationalist troops were stationed in Hobe Fort.
+        \nIt was not until 1985 that Hobe Fort was designated by the Ministry of the Interior, Executive Yuan, as a National Level 2 Ancient Monument.
+        \nAfter downsizing of Taiwan\'s Provincial Government, Hobe Fort came to be managed by the Taipei County Government and reopened to the public after restoration. Currently it is classified as a National Monument.</string>
+    <string name="nickname_hint">Your nickname:</string>
+    <string name="done">Done</string>
 </resources>
